@@ -1,4 +1,4 @@
-import "./style.css";
+import "./styles.css";
 import icon from "../../assets/img/notification-icon.svg";
 
 function NotificationButton() {
